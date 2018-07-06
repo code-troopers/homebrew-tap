@@ -1,0 +1,7 @@
+# Brew Tap by Code-Troopers
+
+This tap allow easy installation of ct for MacOS users.
+
+## Install
+
+`brew install code-troopers/homebrew-tap/ct`
