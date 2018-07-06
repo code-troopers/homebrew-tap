@@ -1,4 +1,4 @@
-class CT < Formula
+class Ct < Formula
 	desc "Command line wrapper for Code-Troopers"
 	homepage "https://github.com/code-troopers/ct/"
 	url "https://github.com/code-troopers/ct/releases/download/v0.1.3-pre/ct-v0.1.3-pre-x86_64-apple-darwin.tar.gz"
